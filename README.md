@@ -11,4 +11,4 @@ In this post, you will learn how to:
 * Access to panel UI of LocalStack.
 * Run some commands using AWS CLI using LocalStack.
 
-[More info](https://helibertoarias.com/blog/aws/localstack-locally-test-aws-docker/)
+[Read more](https://helibertoarias.com/blog/aws/localstack-locally-test-aws-docker/)
